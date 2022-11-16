@@ -27,7 +27,8 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 
 *IS_SUCCESSFUL—Was the money used effective
 
-Resuts:
+### Resuts:
+
 ## Attempt 1
 Layers: 2 "relu"
 Attempt one: Model: "sequential"
